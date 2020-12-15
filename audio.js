@@ -1,5 +1,1 @@
-var x = document.getElementById("audio");
-
-function play() {
-    x.play;
-}
+var a = new Audio(); a.src = "audio/a.mp3"; function play_a() {a.play();}
