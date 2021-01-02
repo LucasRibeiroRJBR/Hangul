@@ -9,7 +9,7 @@ var eh2 = new Audio(); eh2.src = "audio/eh2.mp3"; function play_eh2() { eh2.play
 var ia = new Audio(); ia.src = "audio/ia.mp3"; function play_ia() { ia.play(); }
 var ioh = new Audio(); ioh.src = "audio/ioh.mp3"; function play_ioh() { ioh.play(); }
 var io = new Audio(); io.src = "audio/io.mp3"; function play_io() { io.play(); }
-var iu = new Audio(); iu.src = "audio/iu.mp 3"; function play_iu() { iu.play(); }
+var iu = new Audio(); iu.src = "audio/iu.mp3"; function play_iu() { iu.play(); }
 var ieh1 = new Audio(); ieh1.src = "audio/ieh1.mp3"; function play_ieh1() { ieh1.play(); }
 var ieh2 = new Audio(); ieh2.src = "audio/ieh2.mp3"; function play_ieh2() { ieh2.play(); }
 var ua = new Audio(); ua.src = "audio/ua.mp3"; function play_ua() { ua.play(); }
